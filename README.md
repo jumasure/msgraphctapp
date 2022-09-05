@@ -1,5 +1,5 @@
-# msgraph_change_notifications
-Working demo with 
+# Microsoft Graph Change Notifications
+## Working demo with (WIP)
 - Basic Notifications
 - Delta Query
 - Rich Notifications
